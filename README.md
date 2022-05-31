@@ -17,6 +17,8 @@ This is useful when:
 <li>Adding signature</li>
 
 ## ⚙️ Installation
+python -m venv venv
+pip3 install -r 
 1 - Install requirements from `requirements.txt`
 
 2 - Add your `API_ID`, `API_HASH` and `sudo IDs` to `/plugins/jsons/config.json`
